@@ -1,3 +1,5 @@
+Fork from https://github.com/samanthastahlke/2310-lectures
+
 # 2310 Lecture Demos
 
 This is a small Unity 2020 project featuring demo scenes illustrating basic computer animation concepts. This repository will be updated in advance of every lecture with a "Starter" folder containing everything you will need to get started with that class' example. I will be coding live during the class, starting from the contents of the "Starter" folder. You can follow along during class to finish the example, learning how to implement relevant concepts along the way.
